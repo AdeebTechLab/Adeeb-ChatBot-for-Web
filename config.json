@@ -1,0 +1,5 @@
+{
+  "CSV_URL": "https://docs.google.com/spreadsheets/d/1hCz8S0JFTFEESV7IRejWZipyB4isVDh7GKDRPH010dQ/gviz/tq?tqx=out:csv&sheet=Sheet1",
+  "SHEET_NAME": "Sheet1",
+  "LOCAL_FALLBACK_CSV": "./data/auto-reply-sheet1.csv"
+}
